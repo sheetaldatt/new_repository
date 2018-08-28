@@ -11,7 +11,7 @@ char operator;
 boolean done = false;
 //getting input
 while (done == false) {
-System.out.println("Please enter your First Number Operator Secound Number:\n ");
+System.out.println("ok now Please enter your First Number Operator Secound Number:\n ");
 inputA = input.nextDouble();
 operator = input.next().charAt(0);
 inputB = input.nextDouble();
